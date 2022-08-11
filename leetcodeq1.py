@@ -4,6 +4,8 @@ def searchRange(nums, target: int):
     # if target not in nums:
     #     return [-1, -1]
 
+
+
     # for index, num in enumerate(nums):
     #     if num == target:
     #         count = count + 1
